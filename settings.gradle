@@ -1,0 +1,3 @@
+include ':practica_strings'
+include ':app'
+rootProject.name = "Practica_Java1"
